@@ -4,7 +4,7 @@
 
 A set of instructions for receiving requests in one Codex chat and routing work to the right project and chat. This repository contains an `AGENTS.md` routing policy and a format for handoffs and result reports.
 
-I created it after accidentally working in the wrong session, to give requests a single starting point and keep project work in the right chat.
+After accidentally working in the wrong session, I created this repository as an experiment in letting one chat receive and route requests.
 
 The intake chat answers brief conversational questions directly and delegates tasks that require investigation, analysis, actions, or deliverables. It passes along the original request, language, and references, and links to reports saved by the destination chat. You can send the next request while delegated work continues.
 
