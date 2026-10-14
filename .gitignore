@@ -1,0 +1,17 @@
+# User-provided reference material and local state
+/attachments/
+/backups/
+/_delete_candidates/
+/local/
+/.codex/
+.DS_Store
+__pycache__/
+*.pyc
+
+# Historical input retained for existing private report links
+/examples/result.json
+
+# Secrets; keep only an explicitly prepared example
+.env
+.env.*
+!.env.example

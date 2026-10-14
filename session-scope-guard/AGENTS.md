@@ -1,0 +1,2 @@
+- If a work request appears intended for another session, ask before acting using `request_user_input` in the user's language; exclude casual conversation, general chat, and questions requiring no task execution, as well as explicit scope changes.
+- Offer "Stop this request (Recommended)" and "Continue in this session". Proceed here only after explicit confirmation to continue; if the tool is unavailable, keep the request paused.
